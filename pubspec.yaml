@@ -1,0 +1,13 @@
+name: dart_json
+description: A simple JSON parser for Dart
+version: 0.0.1
+
+environment:
+  sdk: ">=2.18.0-271.4.beta <3.0.0"
+
+# dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  tuple: ^2.0.0
